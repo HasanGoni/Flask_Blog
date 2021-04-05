@@ -1,0 +1,67 @@
+* for creating password hash there are many packages available
+* we will use flask-bcrypt. pip install flask-bcrypt
+* from flask_bcrypt import Bcrypt
+  bcrypt = Bcrypt()
+  bcrypt.generate_password_hash('testing')
+  hashed_pw = bcrypt.generate_password_hash('testing')
+* To check whether use same password or not 
+  bcrypt.check_pasword_hash(hashed_pw,'testing')
+
+* we need to go our __init__ page
+  from flask_bcrypt import Bcrypt
+  bcrypt = Bcrypt(app)
+
+* let's go to route and see what is our current registration policy
+  from flask_wtf import FlaskForm
+  =============================================================================================
+   
+    class RegistrationForm(FlaskForm):
+    username = StringField('Username', 
+                           validators=[DataRequired(), DataRequired(),
+                           Length(min=2,max=20)])
+    email = StringField('Email', 
+                           validators=[DataRequired(),
+                           Email()])
+    password = PasswordField('Password', 
+                           validators=[DataRequired()])                    
+    confirm_password = PasswordField('Confirm Password', 
+                           validators=[DataRequired(),EqualTo('password')])
+    submit = SubmitField('Sign Up')
+
+
+  
+@app.route('/register', methods=['GET','POST'])
+def register():
+    form = RegistrationForm()
+    if form.validate_on_submit():
+        flash(f'Account created successfully for {form.username.data}!',category='success')
+        return redirect(url_for('home'))
+
+    return render_template('register.html', template_title='Register', 
+  =============================================================================================
+  So Currently we are doing if form is valid then we show a message Account created successfully
+  but we are not creating any account
+
+  So import our db and bcrypt in route file
+  hashed_pw = bcrypt.generate_password_hash(form.password.data).decode('utf-8')
+
+  Now we can create an user
+
+  user = User(username=form.username.data, email=form.email.data, password=hashed_pw)
+  db.session.add(user)
+  db.session.commit()
+
+  Now show the user that the account is created
+  flash('Your account is created,'success')
+
+  Now instead to homeroute they will be redirected to login route
+  return redirect(url_for('login'))
+
+  # If in the app everything is ok we want to make sure whether the user is created
+  in the database
+  in commmand line try python
+  from flaskblog import db
+  from flaskblog.models import User
+  user = User.query.first()
+  user.password
+

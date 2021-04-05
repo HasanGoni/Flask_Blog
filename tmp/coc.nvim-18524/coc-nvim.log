@@ -1,0 +1,3 @@
+2021-03-28T16:11:51.077 INFO (pid:18524) [plugin] - coc.nvim 0.0.80-6e5a2aaeb5 initialized with node: v14.15.4 after 240ms
+2021-03-28T16:11:55.385 INFO (pid:18524) [attach] - receive request: CocAutocmd [ 'BufWritePre', 1 ]
+2021-03-28T20:57:46.242 INFO (pid:18524) [attach] - receive request: CocAutocmd [ 'BufWritePre', 1 ]

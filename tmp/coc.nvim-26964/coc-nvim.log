@@ -1,0 +1,57 @@
+2021-03-28T11:14:57.643 INFO (pid:26964) [plugin] - coc.nvim 0.0.80-6e5a2aaeb5 initialized with node: v14.15.4 after 203ms
+2021-03-28T11:22:19.634 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T11:22:20.676 INFO (pid:26964) [attach] - receive notification: stopCompletion []
+2021-03-28T11:25:47.469 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T11:26:18.942 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T11:26:20.829 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T11:27:00.646 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T11:31:23.211 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T11:31:24.251 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T11:31:52.277 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T11:31:58.187 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T11:32:02.559 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T11:33:39.148 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T11:33:51.512 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T11:34:09.574 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T12:08:30.340 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T12:10:29.028 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T12:10:32.804 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T12:10:34.409 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T12:10:36.692 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T12:10:57.925 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T12:12:47.511 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T12:12:47.885 INFO (pid:26964) [attach] - receive notification: stopCompletion []
+2021-03-28T12:12:48.278 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T12:12:49.538 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T12:12:50.291 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T12:12:50.507 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T12:12:51.352 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T12:12:51.552 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T12:12:51.664 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T12:12:52.005 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T12:12:52.381 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T12:12:52.567 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T12:12:52.678 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T12:15:21.076 INFO (pid:26964) [attach] - receive request: CocAutocmd [ 'BufWritePre', 1 ]
+2021-03-28T13:11:55.059 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T13:11:57.393 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T13:12:35.854 INFO (pid:26964) [attach] - receive request: CocAutocmd [ 'BufWritePre', 1 ]
+2021-03-28T13:13:16.287 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T13:13:16.707 INFO (pid:26964) [attach] - receive notification: stopCompletion []
+2021-03-28T13:13:16.955 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T13:13:17.175 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T13:13:17.723 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T13:13:18.814 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T13:13:19.952 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T13:13:20.840 INFO (pid:26964) [attach] - receive notification: stopCompletion []
+2021-03-28T13:13:21.122 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-28T13:13:23.446 INFO (pid:26964) [attach] - receive request: CocAutocmd [ 'BufWritePre', 1 ]
+2021-03-29T20:26:32.643 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-29T20:26:34.631 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-29T20:27:06.675 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-29T20:27:11.304 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-29T20:27:46.688 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-29T20:27:46.812 INFO (pid:26964) [attach] - receive notification: stopCompletion []
+2021-03-29T20:27:57.964 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-29T20:28:02.863 INFO (pid:26964) [completion-complete] - Results from: around
+2021-03-29T20:28:06.211 INFO (pid:26964) [completion-complete] - Results from: around

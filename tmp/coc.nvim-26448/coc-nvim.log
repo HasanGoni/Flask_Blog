@@ -1,0 +1,23 @@
+2021-03-28T20:57:53.442 INFO (pid:26448) [services] - registered service "pyright"
+2021-03-28T20:57:53.444 INFO (pid:26448) [services] - Pyright Server state change: stopped => starting
+2021-03-28T20:57:53.556 INFO (pid:26448) [plugin] - coc.nvim 0.0.80-6e5a2aaeb5 initialized with node: v14.15.4 after 380ms
+2021-03-28T20:57:53.565 INFO (pid:26448) [language-client-index] - pyright started with 2204
+2021-03-28T20:57:53.893 INFO (pid:26448) [services] - Pyright Server state change: starting => running
+2021-03-28T20:57:53.897 INFO (pid:26448) [services] - service pyright started
+2021-03-28T20:57:54.809 INFO (pid:26448) [services] - Pyright Server state change: running => stopped
+2021-03-28T20:57:54.809 INFO (pid:26448) [services] - Pyright Server state change: stopped => starting
+2021-03-28T20:57:54.814 INFO (pid:26448) [language-client-index] - pyright started with 25500
+2021-03-28T20:57:55.001 INFO (pid:26448) [services] - Pyright Server state change: starting => running
+2021-03-28T20:57:55.534 INFO (pid:26448) [completion-complete] - Results from: pyright-1
+2021-03-28T20:57:56.667 INFO (pid:26448) [completion-complete] - Results from: pyright-1
+2021-03-28T20:58:00.656 INFO (pid:26448) [completion-complete] - Results from: pyright-1
+2021-03-28T20:58:03.736 INFO (pid:26448) [completion-complete] - Results from: pyright-1
+2021-03-28T20:58:06.309 INFO (pid:26448) [completion-complete] - Results from: pyright-1
+2021-03-28T20:58:10.632 INFO (pid:26448) [completion-complete] - Results from: around,pyright-1
+2021-03-28T20:58:13.129 INFO (pid:26448) [completion-complete] - Results from: around,pyright-1
+2021-03-28T20:58:16.436 INFO (pid:26448) [completion-complete] - Results from: around,pyright-1
+2021-03-28T20:58:18.137 INFO (pid:26448) [completion-complete] - Results from: pyright-1
+2021-03-28T20:58:30.483 INFO (pid:26448) [completion-complete] - Results from: pyright-1
+2021-03-28T20:58:33.900 INFO (pid:26448) [completion-complete] - Results from: pyright-1
+2021-03-28T20:58:39.425 INFO (pid:26448) [attach] - receive request: CocAutocmd [ 'BufWritePre', 1 ]
+2021-03-28T20:58:44.864 INFO (pid:26448) [attach] - receive request: CocAutocmd [ 'BufWritePre', 1 ]

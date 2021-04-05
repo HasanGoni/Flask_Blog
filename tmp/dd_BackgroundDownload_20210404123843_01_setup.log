@@ -1,0 +1,4 @@
+[0be4:0001][2021-04-04T12:39:54] Setup Engine v2.9.3365, Microsoft Windows NT 6.2.9200.0
+[0be4:0001][2021-04-04T12:39:54] Command line: "C:\Users\hasan\AppData\Local\Temp\ynfbgyr4.ven\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe" --child --activityId 5a7c8895-2648-412c-9f86-6492b39b1bc9 --childClientVersion 2.9.3365.38425 
+[0be4:0001][2021-04-04T12:39:54] Loading packages for instance '99780936'
+[0be4:0001][2021-04-04T12:39:56] Loaded existing instance for product 'Microsoft.VisualStudio.Product.BuildTools,version=16.4.29613.14'

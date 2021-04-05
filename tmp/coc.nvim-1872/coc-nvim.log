@@ -1,0 +1,90 @@
+2021-03-26T18:37:24.848 INFO (pid:1872) [services] - registered service "pyright"
+2021-03-26T18:37:24.851 INFO (pid:1872) [services] - Pyright Server state change: stopped => starting
+2021-03-26T18:37:24.958 INFO (pid:1872) [plugin] - coc.nvim 0.0.80-6e5a2aaeb5 initialized with node: v14.15.4 after 376ms
+2021-03-26T18:37:24.967 INFO (pid:1872) [language-client-index] - pyright started with 20352
+2021-03-26T18:37:25.244 INFO (pid:1872) [services] - Pyright Server state change: starting => running
+2021-03-26T18:37:25.248 INFO (pid:1872) [services] - service pyright started
+2021-03-26T18:37:26.225 INFO (pid:1872) [services] - Pyright Server state change: running => stopped
+2021-03-26T18:37:26.226 INFO (pid:1872) [services] - Pyright Server state change: stopped => starting
+2021-03-26T18:37:26.230 INFO (pid:1872) [language-client-index] - pyright started with 9504
+2021-03-26T18:37:26.394 INFO (pid:1872) [services] - Pyright Server state change: starting => running
+2021-03-26T18:37:32.497 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:37:34.445 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:37:41.652 INFO (pid:1872) [completion-complete] - Results from: around
+2021-03-26T18:37:47.070 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:37:58.739 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:38:00.316 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:38:01.327 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:38:03.515 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:38:15.588 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:38:16.345 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:38:17.355 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:38:22.673 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:38:28.806 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:38:29.844 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:38:31.823 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:38:33.324 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:38:38.177 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:38:39.577 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:38:42.743 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:38:45.073 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:38:47.036 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:38:49.693 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:38:52.442 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:38:54.215 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:38:55.018 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:38:55.190 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:38:57.103 INFO (pid:1872) [attach] - receive notification: stopCompletion []
+2021-03-26T18:38:57.347 INFO (pid:1872) [completion-complete] - Results from: around
+2021-03-26T18:38:57.675 INFO (pid:1872) [completion-complete] - Results from: around
+2021-03-26T18:39:32.450 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:39:33.057 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:39:34.762 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:39:39.065 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:39:44.892 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:39:45.854 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:39:47.858 INFO (pid:1872) [completion-complete] - Results from: around
+2021-03-26T18:39:48.148 INFO (pid:1872) [attach] - receive notification: stopCompletion []
+2021-03-26T18:39:48.358 INFO (pid:1872) [completion-complete] - Results from: around
+2021-03-26T18:39:48.950 INFO (pid:1872) [completion-complete] - Results from: around
+2021-03-26T18:39:49.449 INFO (pid:1872) [completion-complete] - Results from: around
+2021-03-26T18:39:49.571 INFO (pid:1872) [completion-complete] - Results from: around
+2021-03-26T18:39:55.966 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:40:07.282 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:40:08.828 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:40:11.872 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:40:14.500 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:40:30.190 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:40:31.062 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:40:31.924 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:40:36.350 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:40:38.158 INFO (pid:1872) [completion-complete] - Results from: file
+2021-03-26T18:40:55.925 INFO (pid:1872) [completion-complete] - Results from: around
+2021-03-26T18:40:56.066 INFO (pid:1872) [completion-complete] - Results from: around
+2021-03-26T18:40:56.191 INFO (pid:1872) [completion-complete] - Results from: around
+2021-03-26T18:40:56.535 INFO (pid:1872) [completion-complete] - Results from: around
+2021-03-26T18:40:57.115 INFO (pid:1872) [completion-complete] - Results from: around
+2021-03-26T18:40:57.317 INFO (pid:1872) [completion-complete] - Results from: around
+2021-03-26T18:41:15.289 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:41:15.893 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:41:19.209 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:41:21.264 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:41:27.902 INFO (pid:1872) [attach] - receive request: CocAutocmd [ 'BufWritePre', 1 ]
+2021-03-26T18:42:49.682 INFO (pid:1872) [completion-complete] - Results from: file
+2021-03-26T18:42:51.523 INFO (pid:1872) [attach] - receive request: CocAutocmd [ 'BufWritePre', 1 ]
+2021-03-26T18:43:11.790 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:43:15.316 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:43:23.193 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:43:24.990 INFO (pid:1872) [completion-complete] - Results from: around,pyright-1
+2021-03-26T18:43:50.767 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:43:55.459 INFO (pid:1872) [completion-complete] - Results from: around
+2021-03-26T18:43:56.029 INFO (pid:1872) [attach] - receive notification: stopCompletion []
+2021-03-26T18:43:56.336 INFO (pid:1872) [completion-complete] - Results from: around
+2021-03-26T18:43:56.439 INFO (pid:1872) [completion-complete] - Results from: around
+2021-03-26T18:43:58.518 INFO (pid:1872) [completion-complete] - Results from: file
+2021-03-26T18:44:44.118 INFO (pid:1872) [completion-complete] - Results from: file
+2021-03-26T18:44:49.846 INFO (pid:1872) [completion-complete] - Results from: pyright-1
+2021-03-26T18:44:50.489 INFO (pid:1872) [attach] - receive notification: stopCompletion []
+2021-03-26T18:44:51.385 INFO (pid:1872) [completion-complete] - Results from: around
+2021-03-26T18:45:09.407 INFO (pid:1872) [attach] - receive request: CocAutocmd [ 'BufWritePre', 1 ]
+2021-03-26T18:45:29.462 INFO (pid:1872) [attach] - receive request: CocAutocmd [ 'BufWritePre', 1 ]
